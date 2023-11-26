@@ -13,7 +13,7 @@ This repository contains the source code for a backend application developed usi
 
 1. Clone the repository:
   ```bash
-  git clone https://github.com/noureddine409/-sink.git
+  git clone https://github.com/noureddine409/hackathon-karizma.git
   ```
 2. Navigate to the project directory:
   ```bash
