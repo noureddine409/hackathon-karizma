@@ -17,7 +17,7 @@ This repository contains the source code for a backend application developed usi
   ```
 2. Navigate to the project directory:
   ```bash
-  cd notification-sink
+  cd hackathon
   ```
 3. Build the project:
   ```bash
